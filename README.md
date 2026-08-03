@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=LakshyaKhamesra&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Lakshya Khamesra&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;LeetCode+Enthusiast+%F0%9F%8E%AF;MERN+Stack+Developer+%E2%9A%A1;System+Design+Explorer+%F0%9F%8C%90;+%F0%9F%94%A5" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 ```javascript
-const manoj = {
+const lakshya = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     currentFocus: "Getting a JOB🔭",
@@ -66,6 +66,7 @@ const manoj = {
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
 </div>
 
 #### ⚙️ Backend Power
