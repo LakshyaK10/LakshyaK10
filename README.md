@@ -24,7 +24,7 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -60,45 +60,45 @@ const lakshya = {
 
 <!-- ===================== TECH STACK ===================== -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-### 🌐 Frontend
+### Frontend
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-### ⚙️ Backend
+### Backend
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
-### 🤖 AI / ML
+### AI / ML
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 
-### 🗄️ Databases
+### Databases
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### 🔧 Tools
+### Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -106,7 +106,7 @@ const lakshya = {
 
 </div>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -128,7 +128,7 @@ const lakshya = {
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -138,11 +138,11 @@ const lakshya = {
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
-## 🎯 Current Focus
+## Current Focus
 
 <div align="center">
 
-| 💻 Software Engineering | 🤖 Artificial Intelligence | 🧠 Problem Solving |
+|  Software Engineering   |    Artificial Intelligence |    Problem Solving |
 | :---------------------: | :------------------------: | :----------------: |
 |   Backend Development   |        Generative AI       |   Data Structures  |
 |      System Design      |      LLM Applications      |     Algorithms     |
@@ -152,7 +152,7 @@ const lakshya = {
 
 <!-- ===================== CONNECT ===================== -->
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -170,7 +170,7 @@ const lakshya = {
 
 <div align="center">
 
-### 💡 "Build. Learn. Solve. Repeat."
+###  "Build. Learn. Solve. Repeat."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer"/>
 
