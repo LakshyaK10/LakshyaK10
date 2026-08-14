@@ -108,64 +108,6 @@ const lakshya = {
 
 </div>
 
-<!-- ===================== EXPERIENCE ===================== -->
-
-## 💼 Experience
-
-### 🚀 Software Engineer Intern — Propelld
-
-* Working on software engineering tasks involving backend development and application workflows.
-* Building and improving production-oriented features while working with real-world codebases.
-* Gaining hands-on experience with Git, APIs, databases and software development practices.
-
-<!-- ===================== PROJECTS ===================== -->
-
-## 🚀 Featured Projects
-
-### 📄 Marksheet OCR & Standardization System
-
-An OCR-based document processing system that extracts and standardizes information from marksheets across multiple Indian education boards.
-
-**Tech:** Python · PaddleOCR · OpenCV · PDFPlumber · Regex · JSON
-
-* Supports multiple education boards with board-specific parsers.
-* Processes both scanned images and PDFs.
-* Converts OCR output into standardized structured JSON.
-* Designed with modular board detection and parser architecture.
-
-### 🏋️ TrainX
-
-AI-powered fitness platform for workout guidance, pose correction and exercise form analysis.
-
-**Tech:** React · Flask · MongoDB · OpenCV · MediaPipe · TensorFlow
-
-* Uses pose estimation for exercise form analysis.
-* Provides workout and fitness-related recommendations.
-* Combines computer vision with a full-stack web application.
-
-### 📸 GetYou
-
-AI-powered facial recognition application that helps users find matching photos using facial encodings.
-
-**Tech:** Python · Flask · OpenCV · Face Recognition · React
-
-* Generates 128-dimensional facial embeddings.
-* Matches uploaded selfies against available images.
-* Designed for efficient image-based search.
-
-### 🤖 AI-Powered Multilingual Summarizer
-
-Full-stack AI application that summarizes PDFs, web pages and YouTube videos.
-
-**Tech:** Python · Streamlit · LangChain · Groq · Gemma · Playwright · PDFPlumber
-
-* Supports multiple input sources.
-* Uses LangChain summarization pipelines.
-* Generates multilingual summaries.
-* Supports downloadable PDF summaries.
-
-<!-- ===================== GITHUB STATS ===================== -->
-
 ## 📊 GitHub Statistics
 
 <div align="center">
