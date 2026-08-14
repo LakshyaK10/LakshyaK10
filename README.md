@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/GitHub-LakshyaK10-181717?style=for-the-badge&logo=github" />
 </a>
 
+<!-- Replace this with your actual LinkedIn URL -->
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -21,6 +22,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
+
 
 <!-- ===================== ABOUT ===================== -->
 
@@ -34,9 +36,10 @@ const lakshya = {
     role: "Software Engineer | AI/ML Enthusiast",
     education: "B.E. Artificial Intelligence & Machine Learning",
     interests: [
-        "Software Development",
+        "Software Engineering",
         "Artificial Intelligence",
         "Machine Learning",
+        "Full Stack Development",
         "Problem Solving",
         "System Design"
     ],
@@ -106,72 +109,19 @@ const lakshya = {
 
 </div>
 
-## GitHub Statistics
-
+<!-- ===================== GITHUB STATISTICS ===================== -->
+GitHub Statistics
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LakshyaK10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" /> <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=LakshyaK10&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7" /> </div> <br> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaK10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" /> </div> <!-- ===================== CONTRIBUTION SNAKE ===================== -->
+Contribution Activity
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LakshyaK10/LakshyaK10/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LakshyaK10/LakshyaK10/output/github-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LakshyaK10/LakshyaK10/output/github-snake.svg" /> </picture> </div> <!-- ===================== CURRENT FOCUS ===================== -->
+Current Focus
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LakshyaK10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=LakshyaK10&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaK10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" />
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=LakshyaK10&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7&radius=10&height=300&days=40&grid=true" />
-
-</div>
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LakshyaK10/LakshyaK10/output/github-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## Current Focus
-
-<div align="center">
-
-|  Software Engineering   |    Artificial Intelligence |    Problem Solving |
-| :---------------------: | :------------------------: | :----------------: |
-|   Backend Development   |        Generative AI       |   Data Structures  |
-|      System Design      |      LLM Applications      |     Algorithms     |
-|      Scalable APIs      |       Computer Vision      |      LeetCode      |
-
-</div>
-
-<!-- ===================== CONNECT ===================== -->
-
-##  Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/LakshyaK10">
-<img src="https://img.shields.io/badge/GitHub-LakshyaK10-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Lakshya_Khamesra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-###  "Build. Learn. Solve. Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer"/>
-
-</div>
+Software Engineering	Artificial Intelligence	Problem Solving
+Backend Development	Generative AI	Data Structures
+System Design	LLM Applications	Algorithms
+Scalable APIs	Computer Vision	LeetCode
+</div> <!-- ===================== CONNECT ===================== -->
+Let's Connect
+<div align="center"> <a href="https://github.com/LakshyaK10"> <img src="https://img.shields.io/badge/GitHub-LakshyaK10-181717?style=for-the-badge&logo=github" /> </a> <!-- Replace with your actual LinkedIn profile --> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Lakshya_Khamesra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div> <br> <div align="center">
+"Build. Learn. Solve. Repeat."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer"/> </div> ```
