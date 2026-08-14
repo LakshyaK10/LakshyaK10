@@ -43,7 +43,6 @@ const lakshya = {
     currentlyLearning: [
         "Generative AI",
         "System Design",
-        "Spring Boot",
         "Advanced DSA"
     ],
     languages: ["Java", "Python", "C", "JavaScript"],
@@ -51,12 +50,11 @@ const lakshya = {
 };
 ```
 
-* 🔭 Currently working as a **Software Engineer Intern at Propelld**
-* 🎓 B.E. student specializing in **Artificial Intelligence & Machine Learning**
-* 💻 Interested in **Software Engineering, AI/ML and Full Stack Development**
-* 🧠 Solving **DSA and competitive programming** problems
-* 🚀 Building practical projects using **React, Flask, Node.js and AI/ML**
-* 🌱 Currently exploring **Generative AI, Spring Boot and System Design**
+* B.E. student specializing in **Artificial Intelligence & Machine Learning**
+* Interested in **Software Engineering, AI/ML and Full Stack Development**
+* Solving **DSA and competitive programming** problems
+* Building practical projects using **React, Flask, Node.js and AI/ML**
+* Currently exploring **Generative AI, Spring Boot and System Design**
 
 <br clear="right"/>
 
