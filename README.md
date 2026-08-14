@@ -110,10 +110,11 @@ const lakshya = {
 </div>
 
 <!-- ===================== GITHUB STATISTICS ===================== -->
-GitHub Statistics
+<!--GitHub Statistics
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LakshyaK10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" /> <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=LakshyaK10&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7" /> </div> <br> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaK10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" /> </div> <!-- ===================== CONTRIBUTION SNAKE ===================== -->
-Contribution Activity
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LakshyaK10/LakshyaK10/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LakshyaK10/LakshyaK10/output/github-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LakshyaK10/LakshyaK10/output/github-snake.svg" /> </picture> </div> <!-- ===================== CURRENT FOCUS ===================== -->
+<!-- Contribution Activity
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LakshyaK10/LakshyaK10/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LakshyaK10/LakshyaK10/output/github-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LakshyaK10/LakshyaK10/output/github-snake.svg" /> </picture> </div> -->
+<!-- ===================== CURRENT FOCUS ===================== -->
 Current Focus
 <div align="center">
 Software Engineering	Artificial Intelligence	Problem Solving
