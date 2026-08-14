@@ -1,131 +1,237 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Lakshya Khamesra&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- ===================== HEADER ===================== -->
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;LeetCode+Enthusiast+%F0%9F%8E%AF;MERN+Stack+Developer+%E2%9A%A1;System+Design+Explorer+%F0%9F%8C%90;+%F0%9F%94%A5" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=220&section=header&text=Lakshya%20Khamesra&fontSize=72&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&height=70&lines=Software+Engineer+%7C+AI%2FML+Enthusiast;Full+Stack+Developer;Java+%7C+Python+%7C+React;DSA+%7C+System+Design+%7C+Generative+AI" alt="Typing SVG" />
 
 <br>
 
-<!-- Social Links with Glowing Effect -->
+<a href="https://github.com/LakshyaK10">
+  <img src="https://img.shields.io/badge/GitHub-LakshyaK10-181717?style=for-the-badge&logo=github" />
+</a>
 
-<!-- Animated Divider -->
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- ===================== ABOUT ===================== -->
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
 const lakshya = {
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
-    currentFocus: "Getting a JOB🔭",
-    learning: ["MERN Stack", "SpringBoot","Generative AI"],
-    interests: ["Problem Solving", "Web Development", "AI/ML"],
-    motto: "Bugs in my head never make me sleep ^_^",
-    
-    lifeLoop: function() {
-        while(alive) {
-            eat();
-            code();
-            solve();
-            repeat();
-        }
-    }
+    name: "Lakshya Khamesra",
+    role: "Software Engineer | AI/ML Enthusiast",
+    education: "B.E. Artificial Intelligence & Machine Learning",
+    interests: [
+        "Software Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Problem Solving",
+        "System Design"
+    ],
+    currentlyLearning: [
+        "Generative AI",
+        "System Design",
+        "Spring Boot",
+        "Advanced DSA"
+    ],
+    languages: ["Java", "Python", "C", "JavaScript"],
+    mindset: "Build. Learn. Solve. Repeat."
 };
 ```
 
+* 🔭 Currently working as a **Software Engineer Intern at Propelld**
+* 🎓 B.E. student specializing in **Artificial Intelligence & Machine Learning**
+* 💻 Interested in **Software Engineering, AI/ML and Full Stack Development**
+* 🧠 Solving **DSA and competitive programming** problems
+* 🚀 Building practical projects using **React, Flask, Node.js and AI/ML**
+* 🌱 Currently exploring **Generative AI, Spring Boot and System Design**
+
 <br clear="right"/>
 
-<!-- Wave Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- ===================== TECH STACK ===================== -->
 
-<!-- Tech Stack with Icons -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
-  Tech Arsenal
-</h2>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### 💻 Languages
 
-#### 🎨 Frontend Magic
-<div align="center">  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-</div>
-
-#### ⚙️ Backend Power
-<div align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-</div>
-
-</td>
-<td valign="top" width="50%">
-
-#### 🗄️ Database & Cloud
-<div align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
-#### 💻 Languages & Tools
-<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+### 🌐 Frontend
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+### 🤖 AI / ML
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+
+### 🗄️ Databases
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### 🔧 Tools
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</div>
-
-</td>
-</tr>
-</table>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- ===================== EXPERIENCE ===================== -->
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Statistics</h2>
+## 💼 Experience
 
-<!-- <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manojkumar-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=manojkumar-ctrl&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
-</div> -->
+### 🚀 Software Engineer Intern — Propelld
+
+* Working on software engineering tasks involving backend development and application workflows.
+* Building and improving production-oriented features while working with real-world codebases.
+* Gaining hands-on experience with Git, APIs, databases and software development practices.
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 🚀 Featured Projects
+
+### 📄 Marksheet OCR & Standardization System
+
+An OCR-based document processing system that extracts and standardizes information from marksheets across multiple Indian education boards.
+
+**Tech:** Python · PaddleOCR · OpenCV · PDFPlumber · Regex · JSON
+
+* Supports multiple education boards with board-specific parsers.
+* Processes both scanned images and PDFs.
+* Converts OCR output into standardized structured JSON.
+* Designed with modular board detection and parser architecture.
+
+### 🏋️ TrainX
+
+AI-powered fitness platform for workout guidance, pose correction and exercise form analysis.
+
+**Tech:** React · Flask · MongoDB · OpenCV · MediaPipe · TensorFlow
+
+* Uses pose estimation for exercise form analysis.
+* Provides workout and fitness-related recommendations.
+* Combines computer vision with a full-stack web application.
+
+### 📸 GetYou
+
+AI-powered facial recognition application that helps users find matching photos using facial encodings.
+
+**Tech:** Python · Flask · OpenCV · Face Recognition · React
+
+* Generates 128-dimensional facial embeddings.
+* Matches uploaded selfies against available images.
+* Designed for efficient image-based search.
+
+### 🤖 AI-Powered Multilingual Summarizer
+
+Full-stack AI application that summarizes PDFs, web pages and YouTube videos.
+
+**Tech:** Python · Streamlit · LangChain · Groq · Gemma · Playwright · PDFPlumber
+
+* Supports multiple input sources.
+* Uses LangChain summarization pipelines.
+* Generates multilingual summaries.
+* Supports downloadable PDF summaries.
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaK10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
 
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=LakshyaK10&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7&radius=10&height=300&days=40&grid=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LakshyaK10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=LakshyaK10&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7" />
+
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake.svg" />
-  </picture>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaK10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=LakshyaK10&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7&radius=10&height=300&days=40&grid=true" />
+
+</div>
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LakshyaK10/LakshyaK10/output/github-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 💻 Software Engineering | 🤖 Artificial Intelligence | 🧠 Problem Solving |
+| :---------------------: | :------------------------: | :----------------: |
+|   Backend Development   |        Generative AI       |   Data Structures  |
+|      System Design      |      LLM Applications      |     Algorithms     |
+|      Scalable APIs      |       Computer Vision      |      LeetCode      |
+
+</div>
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/LakshyaK10">
+<img src="https://img.shields.io/badge/GitHub-LakshyaK10-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Lakshya_Khamesra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 "Build. Learn. Solve. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer"/>
+
 </div>
